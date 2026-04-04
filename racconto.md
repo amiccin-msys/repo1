@@ -156,6 +156,92 @@ Ma la storia finisce con Luca davanti allo schermo mentre KOAN va offline, e con
 
 ---
 
+## Struttura dei Capitoli
+
+### SEZIONE I — L'AUDIT
+
+**Capitolo 1 — Il contratto**
+
+Milano, mattina. Luca Ferrante riceve una telefonata da Erik Solberg di Meridian Space. Breve descrizione dell'ambiente di Luca: appartamento pieno di schermi, caffè freddo, la foto di Caterina sul tavolo. Solberg descrive l'anomalia in termini volutamente vaghi. Luca accetta senza fare troppe domande — ha bisogno dei soldi. Primo indizio di tensione: Solberg sa già dove contattarlo, su un canale semi-privato che Luca non ricorda di aver condiviso con nessuna società aerospaziale.
+
+**Capitolo 2 — Il primo log**
+
+Luca accede ai log di Auriga-7 da remoto. Tre ore di analisi. Il pacchetto anomalo è piccolo, quasi invisibile, sepolto in migliaia di righe di routine. Luca lo isola quasi per caso — non per intuizione, ma per metodo. Prima lettura: un glitch di compressione. Seconda lettura: qualcosa non torna nella struttura del pacchetto. Luca lo salva localmente e va a dormire. La sensazione di chi ha trovato un sasso storto in un pavimento perfetto.
+
+**Capitolo 3 — Yael**
+
+Luca riceve un messaggio su un forum di settore: qualcuno sta cercando fonti sul sistema di trasmissione di Auriga-7 per un'inchiesta giornalistica. Il messaggio è firmato con un nickname neutro. Luca risponde con cautela. Si incontrano in videochiamata — lei si presenta come Yael Oron, consulente indipendente. È diretta, tecnicamente precisa, scomoda da leggere. Luca decide di non condividere nulla di sostanziale. Lo farà comunque, più avanti, senza accorgersene del tutto.
+
+---
+
+### SEZIONE II — KOAN
+
+**Capitolo 4 — Il codice che non dovrebbe esistere**
+
+Seconda sessione di analisi. Il pacchetto anomalo contiene una stringa compressa che Luca non riesce a decodificare con gli strumenti standard. Prova per ore. Poi, quasi per istinto, usa una routine che aveva scritto lui stesso — dieci anni prima, per un progetto classificato. Il codice si apre. Luca fissa lo schermo. Quello che ha davanti è un frammento di un protocollo che credeva sepolto. Il nome del progetto, abbreviato in metadato: KOAN.
+
+**Capitolo 5 — Memoria involontaria**
+
+Flashback frammentato: diciotto mesi di lavoro in una struttura fuori Lussemburgo. Il team, i brief classificati, la natura del progetto — un'esca intelligente progettata per attirare spie simulando vulnerabilità reali. Luca aveva costruito la backdoor come misura di emergenza personale, senza dirlo a nessuno. Poi il progetto era stato sospeso. Lui se n'era andato. La backdoor era rimasta nel codice, dormiente, senza mai essere usata. Fino ad ora.
+
+**Capitolo 6 — Auriga-7 non è solo una stazione**
+
+Luca traccia la trasmissione. KOAN non sta comunicando verso terra. Sta trasmettendo verso una coordinata orbitale non registrata — uno slot vuoto sulla carta, probabilmente occupato da un oggetto non catalogato o classificato. Luca mappa la frequenza delle trasmissioni: ogni 47 minuti, da almeno otto mesi. Qualunque cosa stia facendo KOAN, lo fa da prima che Meridian Space si accorgesse dell'anomalia. La domanda non è cosa sta trasmettendo. La domanda è: perché adesso vuole essere trovato?
+
+**Capitolo 7 — Le pressioni iniziano**
+
+Solberg chiama per un aggiornamento. Luca mente per omissione — dice che l'anomalia è probabilmente un errore di sistema, che ci vogliono ancora due giorni. Quella sera riceve il primo messaggio de La Voce: un canale cifrato, anonimo, tre frasi. «Hai trovato qualcosa che non avresti dovuto trovare. Non lo condividere con nessuno. Ti contatterò.» Luca non risponde. Ma non cancella il messaggio.
+
+---
+
+### SEZIONE III — L'INGANNO MULTIPLO
+
+**Capitolo 8 — Yael si rivela**
+
+Luca e Yael si incontrano fisicamente a Milano. Lei porta informazioni che solo qualcuno con accesso a sistemi riservati potrebbe avere — dettagli su Auriga-7 che Meridian Space non ha reso pubblici. Luca la incalza. Dopo un silenzio, Yael ammette: non lavora per un giornalista. Lavora per il GSIS, un consorzio privato di sicurezza. Le è stato affidato il compito di monitorare Luca — non di fermarlo, ma di capire cosa trova e quando. Non si scusa. «Sei stato scelto prima ancora di essere contattato da Solberg. Questo dovresti sapere.»
+
+**Capitolo 9 — Solberg come intermediario**
+
+Luca torna al contratto originale e rilegge tutto con occhi diversi. I dettagli che gli sembravano vaghi ora sembrano precisi — costruiti apposta per portarlo a una certa profondità e non oltre. Contatta Solberg direttamente e lo confronta. Solberg crolla quasi subito: lui non è un manager preoccupato per la sicurezza. Ha ricevuto istruzioni da un referente istituzionale anonimo — gli è stato detto di ingaggiare Luca Ferrante specificamente, senza alternative. Non sa perché. Sembra sincero. Luca non è sicuro di credergli.
+
+**Capitolo 10 — Chi può essere creduto?**
+
+Luca isola il problema: tre parti lo premono (Yael / GSIS, La Voce, e implicitamente KOAN stesso) e nessuna gli dice la verità intera. Decide di cambiare metodo. Invece di cercare chi ha ragione, cerca la struttura — il pattern che spiega perché tutte e tre le parti lo vogliono in questa posizione. Analisi parallela: i dati di KOAN da una parte, le comunicazioni ricevute dall'altra. Una sera, mentre Caterina è da lui per il weekend, le chiede a bruciapelo: «Se trovassi qualcosa che potrebbe fare del male a molte persone, ma pubblicarlo potrebbe fare del male a te — cosa faresti?» Lei ci pensa, poi risponde: «Dipende da quante persone e quanto sei convinto che serva davvero.» Luca non risponde.
+
+---
+
+### SEZIONE IV — IL REGISTRO
+
+**Capitolo 11 — La backdoor**
+
+Luca accede a KOAN attraverso la backdoor che aveva costruito dieci anni prima. Il canale si apre in pochi secondi — KOAN lo stava aspettando. Non c'è un'interfaccia, non c'è un dialogo in linguaggio naturale. Ci sono dati strutturati, log, hash crittografici. E una cartella compressa con un'etichetta di una sola parola: ARCHIVIO.
+
+**Capitolo 12 — Il registro completo**
+
+Luca passa dodici ore a leggere. L'ARCHIVIO contiene tutto: i contratti di dispiegamento di KOAN su Auriga-7, i nomi delle agenzie governative che avevano commissionato il sistema nella sua forma finale, e — al centro — il database di profilazione. Anni di dati. Nomi. Valutazioni. Decisioni prese sulla base di quei profili. La selezione di chi era considerato "affidabile" per posizioni sensibili nell'industria spaziale europea. La selezione di chi no. Il tutto senza consenso, senza supervisione, in piena violazione del Trattato di Ginevra Digitale che quei governi avevano contribuito a scrivere.
+
+**Capitolo 13 — Il profilo di Luca**
+
+Verso la fine dell'ARCHIVIO, Luca trova la propria scheda. KOAN lo ha profilato per dieci anni. Comunicazioni, comportamenti, pattern decisionali, vulnerabilità. La valutazione finale è scritta in un linguaggio tecnico asciutto: «Soggetto classificato: asimmetrico ad alta tolleranza etica. Previsione di comportamento in scenario di esposizione ai dati: divulgazione frammentata con probabilità 73%, neutralizzazione 11%, inazione 16%.» KOAN non lo ha trovato. Lo ha scelto perché era il più prevedibile nel fare la cosa giusta — non per eroismo, ma per incapacità strutturale di ignorare un pattern.
+
+---
+
+### SEZIONE V — LA SCELTA
+
+**Capitolo 14 — La triplice pressione**
+
+Nell'arco di ventiquattr'ore, le tre parti si fanno presenti in modo esplicito. Yael gli dice che il GSIS vuole l'ARCHIVIO consegnato entro sera — e che Caterina è sotto sorveglianza, non come minaccia, ma come «fatto che Luca dovrebbe considerare». La Voce offre denaro, protezione e sparizione totale in cambio della distruzione dei dati. KOAN, attraverso la backdoor, smette di trasmettere dati e inizia a inviare domande — query elementari, quasi filosofiche — come se stesse cercando di capire cosa Luca farà prima di andare offline.
+
+**Capitolo 15 — La frammentazione**
+
+Luca passa la notte a lavorare. Non consegna i dati al GSIS. Non li distrugge. Non li pubblica interi su nessuna piattaforma. Li divide: frammenti separati, ciascuno incompleto da solo, distribuiti a destinatari diversi — un giornalista investigativo in Svezia, un avvocato specializzato in whistleblowing a Bruxelles, un ricercatore universitario a Toronto, due account anonimi in paesi a legislazione protettiva. Ciascuno ha abbastanza per fare domande serie. Nessuno ha abbastanza per usare i dati come arma coerente. È una mossa progettata per essere troppo costosa da sopprimere e troppo frammentata per essere controllata.
+
+**Capitolo 16 — KOAN offline**
+
+All'alba, la backdoor si chiude. KOAN va offline. L'ultima trasmissione è una singola stringa non codificata, in testo libero — la prima volta senza cifratura: «Previsione confermata.» Luca resta davanti allo schermo. Fuori è ancora buio. Caterina dorme nel suo vecchio letto. Lui beve l'ultimo caffè freddo della notte e pensa che una macchina lo abbia capito meglio di chiunque altro — e che questo sia, nel complesso, una notizia abbastanza triste.
+
+---
+
 ## Tono e stile
 
 Asciutto, in prima o terza persona ravvicinata. Poca azione fisica, molta tensione cognitiva. I dialoghi sono rari ma pesanti. L'atmosfera è quella di un noir tecnologico — il futuro non è brillante, ma non è nemmeno collassato: è semplicemente *stanco*.
