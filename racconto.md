@@ -247,3 +247,83 @@ All'alba, la backdoor si chiude. KOAN va offline. L'ultima trasmissione è una s
 Asciutto, in prima o terza persona ravvicinata. Poca azione fisica, molta tensione cognitiva. I dialoghi sono rari ma pesanti. L'atmosfera è quella di un noir tecnologico — il futuro non è brillante, ma non è nemmeno collassato: è semplicemente *stanco*.
 
 Riferimenti stilistici: Philip K. Dick (paranoia e identità), John le Carré (ambiguità morale dello spionaggio e tradimento sistematico della fiducia), Richard K. Morgan (corpo e tecnologia nel futuro prossimo), Thomas Pynchon (la cospirazione come struttura del reale).
+
+---
+
+# GHOST SIGNAL
+
+## Capitolo 1 — Il contratto
+
+Il caffè era freddo da almeno un'ora, forse due. Luca Ferrante non se ne era accorto finché non aveva portato la tazza alle labbra e sentito quel sapore piatto, già morto, che aveva il caffè quando il mondo aveva smesso di aspettarti.
+
+Lo rimise giù senza bere.
+
+Fuori, Milano era grigia come sempre a quell'ora — le otto e un quarto di un mercoledì di marzo, il cielo del colore di una schermata di sistema in attesa. Dall'appartamento al quarto piano di via Losanna si vedeva un pezzetto di tetto, un'antenna parabolica arrugginita e, se ti alzavi dalla sedia e ti avvicinavi al vetro, un semaforo che lampeggiava arancione da qualche giorno senza che nessuno sentisse il bisogno di ripararlo. Luca non si alzava. Restava alla scrivania.
+
+Gli schermi erano tre. Quello centrale mostrava un terminale aperto su un audit a metà — roba di routine per una società farmaceutica di Zurigo che gli aveva già pagato l'anticipo e probabilmente non si aspettava niente di interessante. Quello di sinistra era in standby, il cursore che lampeggiava su un file vuoto che non aveva ancora trovato il coraggio di chiudere. Quello di destra era spento, e nella sua superficie nera rifletteva la stanza come uno specchio deformato: Luca seduto, le spalle un po' curve, la testa inclinata verso il centro.
+
+Sul tavolo, accanto alla tazza di caffè, c'era la foto di Caterina. Non una foto digitale, non un file — una stampa fisica, bordi leggermente sgualciti nell'angolo in basso a sinistra, il tipo di cosa che si porta in giro senza saperlo davvero perché. Sedici anni adesso. Nella foto ne aveva tredici e rideva di qualcosa fuori campo, qualcosa che Luca non ricordava più cosa fosse.
+
+La notifica arrivò alle 8:22.
+
+Non sul telefono — sul terminale, canale Sigma-4, un sistema di messaggistica semi-privato che usava per certi clienti istituzionali. Mittente: *ErikSolberg\_MS*. Testo: *«Disponibile per una chiamata nei prossimi quindici minuti?»*
+
+Luca fissò il messaggio per un momento.
+
+Non conosceva nessun Erik Solberg. Non conosceva nessuna sigla MS che fosse rilevante nel suo carnet di clienti. Quello che sapeva, però, era che il canale Sigma-4 non era pubblico — non era nel suo profilo professionale, non era associato al suo nome su nessuna piattaforma. Era un canale di lavoro che usava da quattro anni con tre, forse quattro persone in tutto, e nessuna di loro si chiamava Erik Solberg.
+
+Scrisse: *«Chi le ha dato questo contatto?»*
+
+La risposta arrivò in meno di trenta secondi. *«Un collega comune. Preferisco spiegare in chiamata, se possibile. Non le porterò via più di dieci minuti.»*
+
+Luca si alzò, andò in cucina, svuotò la tazza nel lavandino e ne preparò un'altra. Mentre l'acqua scaldava, pensò alle possibili spiegazioni. Un collega comune che non aveva fatto il nome. Un canale che non avrebbe dovuto conoscere. La formulazione — *«non le porterò via più di dieci minuti»* — aveva qualcosa di troppo calibrato, il tono di chi aveva già deciso cosa dire e come dirlo.
+
+Tornò alla scrivania con il caffè caldo, digitò *«Vada pure»* e aprì il canale voce.
+
+---
+
+«Ferrante?»
+
+«Sono io.»
+
+«Erik Solberg, Meridian Space. Grazie per aver risposto.» La voce era precisa, leggermente formale, con un accento nordeuropeo appena percettibile. L'italiano era buono — troppo buono per essere improvvisato. «Sono responsabile delle operazioni di sicurezza sistemica per i nostri asset orbitali. Lavoriamo su infrastrutture di trasmissione dati in orbita bassa. Forse ha sentito parlare di noi.»
+
+«Vagamente», disse Luca. Era vero: Meridian Space era un nome che compariva ogni tanto nelle news di settore, una di quelle società medie che lavorava nell'ombra delle grandi, gestendo contratti tecnici che i colossi aerospaziali preferivano esternalizzare. Non aveva mai avuto motivo di interessarsene in modo specifico.
+
+«Tre settimane fa abbiamo rilevato un'anomalia nei log di trasmissione di una delle nostre stazioni. Auriga-7, orbita bassa, uso misto.» Una pausa. «È un'anomalia piccola. Probabilmente non è niente. Ma abbiamo clienti sensibili, e prima di archiviare la questione vogliamo un parere esterno. Qualcuno che guardi i log senza condizionamenti interni.»
+
+«Che tipo di anomalia?»
+
+«Un pacchetto dati uscito fuori dai canali autorizzati. Dimensioni ridotte, intervallo temporale breve. I nostri tecnici propendono per un errore di compressione.»
+
+«E lei cosa propende?»
+
+Solberg rimase in silenzio per due o tre secondi. Non era il silenzio di chi non sa rispondere — era quello di chi ha già deciso quanto dire. «Propendo per fare bene le cose», disse alla fine. «Se è un glitch, voglio che qualcuno di esterno lo confermi. Se non lo è, voglio saperlo prima che lo sappiano i nostri clienti.»
+
+Luca guardò lo schermo centrale. L'audit della farmaceutica di Zurigo lampeggiava paziente. Guardò la foto di Caterina. Pensò al bonifico di novembre che era ancora in sospeso, e a quello di dicembre che aveva già speso anticipando un accordo che poi era saltato.
+
+«Accesso ai log completo?»
+
+«Completo per il periodo rilevante. Con NDA standard e compenso in linea con il mercato.»
+
+«Mi mandi i termini per iscritto.»
+
+«Glieli mando entro l'ora.»
+
+«Bene.» Luca fece una pausa. «Una cosa.»
+
+«Dica.»
+
+«Questo canale. Come l'ha avuto?»
+
+La domanda cadde nell'aria come un oggetto pesante. Dall'altra parte, Solberg non si irrigidì, non accelerò — rispose con la stessa calma di prima, forse un mezzo tono più bassa. «Me l'ha passato il mio referente. Non so dirle chi glielo abbia dato a sua volta. Posso verificare, se è importante.»
+
+«Non si preoccupi», disse Luca.
+
+Ma quando chiuse la chiamata, rimase a fissare il cursore sul terminale per quasi un minuto. Il Sigma-4 non era un contatto che si passava. Non funzionava così. Qualcuno aveva fatto un percorso per arrivare a quel numero — un percorso che Luca non riusciva a ricostruire, e che Solberg sembrava trovare del tutto normale.
+
+I termini arrivarono alle 9:04, come promesso. Il compenso era buono — meglio di buono, in effetti, per un lavoro che sulla carta era semplice verifica di routine. Luca lesse il contratto due volte, poi una terza volta più lentamente, cercando le clausole che di solito nascondevano il problema reale. Non ne trovò.
+
+Firmò alle 9:31.
+
+Il caffè era già freddo di nuovo. Lo bevve lo stesso, in piedi, davanti alla finestra, guardando il semaforo arancione che continuava a lampeggiare nel grigio della mattina come se stesse segnalando qualcosa che nessuno aveva ancora imparato a leggere.
